@@ -1,0 +1,12 @@
+{
+  "stocks": [
+    {
+      "ticker": "1111",
+      "figi": "aaaa",
+      "name": "GAZP",
+      "type": "string",
+      "currency": "RUB",
+      "source": "TINKOFF"
+    }
+  ]
+}

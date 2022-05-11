@@ -1,0 +1,22 @@
+{
+  "requestId": "3534",
+  "stocksDto": [
+    {
+      "ticker": "1111",
+      "name": "",
+      "price": 0,
+      "currency": null,
+      "errorCode": "",
+      "errorText": ""
+    },
+    {
+      "ticker": "2222",
+      "name": "",
+      "price": 0,
+      "currency": null,
+      "errorCode": "",
+      "errorText": ""
+    }
+  ]
+}
+

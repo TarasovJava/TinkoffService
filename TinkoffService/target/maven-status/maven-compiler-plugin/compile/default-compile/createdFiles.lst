@@ -1,0 +1,8 @@
+com\example\tinkoffservice\kafka\dto\StockDto.class
+com\example\tinkoffservice\kafka\config\KafkaConsumerConfig.class
+com\example\tinkoffservice\kafka\dto\MessageTinkoffDto.class
+com\example\tinkoffservice\kafka\consumer\Consumer.class
+com\example\tinkoffservice\service\ExecutorService.class
+com\example\tinkoffservice\kafka\producer\Producer.class
+com\example\tinkoffservice\kafka\config\KafkaProducerConfig.class
+com\example\tinkoffservice\service\StockDataAggregationService.class
